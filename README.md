@@ -58,3 +58,5 @@ Una vez en ejecución, el servidor Flask estará disponible en http://localhost:
 2. Luego se debe ejecutar el archivo `choregraphe.bat` .Dentro del programa, accede a la opción `Editar > Preferencias` y elige el modelo de robot `NAO H25 (V6)`. Es recomendable cerrar y reiniciar Choregraphe para asegurarse de que los cambios se apliquen correctamente.
    
 3. Finalmente solo debe abrir el proyecto del repositorio y ejecutar la simulacion.
+
+Enlace al video de youtube: [PC3-ML-video](https://youtu.be/i3MOZYPY8Yo).
