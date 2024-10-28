@@ -65,4 +65,4 @@ Una vez en ejecución, el servidor Flask estará disponible en http://localhost:
    
 3. Finalmente solo debe abrir el proyecto del repositorio y ejecutar la simulacion.
 
-Enlace al video de youtube: [PC3-ML-video](https://youtu.be/i3MOZYPY8Yo).
+Enlace al video de youtube: [PC3-ML-video](https://youtu.be/57WFz137ECU).
