@@ -1,3 +1,9 @@
+## Alumnos:
+- u202122644 Emily Mendoza Manrique
+- u202122788 Ayrton Jafet Samaniego Millan
+- u202120058 Andrea Katherina Tapia Pescoran
+- u202021644 Renato Guillermo Vivas Alejandro
+
 ## Objetivo de Implementación
 El objetivo de este proyecto es integrar un modelo inteligente de clasificación de basura al robot NAO para permitirle responder de manera autónoma según el tipo de residuo detectado en una imagen. Este sistema utiliza un servidor Flask en Python, que actúa como intermediario entre el usuario, el modelo de clasificación de basura y el robot NAO. La implementación está diseñada para promover una interacción educativa, en la que el robot expresa una emoción específica dependiendo del tipo de residuo clasificado, como plástico, vidrio, papel, material biológico, etc, fomentando una conciencia ambiental en los usuarios.
 ## Diagrama de Arquitectura de componentes:
